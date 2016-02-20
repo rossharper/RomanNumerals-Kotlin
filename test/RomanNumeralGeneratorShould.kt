@@ -21,7 +21,8 @@ class RomanNumeralGeneratorTest(val arabic: Int, val expectedRoman: String) {
                     arrayOf(5, "V"),
                     arrayOf(6, "VI"),
                     arrayOf(7, "VII"),
-                    arrayOf(8, "VIII")
+                    arrayOf(8, "VIII"),
+                    arrayOf(9, "IX")
             )
         }
     }
