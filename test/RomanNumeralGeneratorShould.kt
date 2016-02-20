@@ -7,7 +7,12 @@ class RomanNumeralGeneratorTest {
     private var generator: RomanNumeralGenerator = RomanNumeralGenerator()
 
     @Test
-    fun testRomanNumeralGeneratorReturnsIFor1() {
+    fun shouldReturnIfor1() {
         assertThat(generator.arabicToRoman(1), equalTo("I"));
+    }
+
+    @Test
+    fun shouldReturnIIfor2() {
+        assertThat(generator.arabicToRoman(2), equalTo("II"));
     }
 }

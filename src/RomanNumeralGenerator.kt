@@ -1,6 +1,10 @@
 class RomanNumeralGenerator {
     fun arabicToRoman(arabic: Int): String {
-        return "I"
+        var roman = "";
+        for(i in arabic downTo 1) {
+            roman += "I"
+        }
+        return roman;
     }
 
 }
