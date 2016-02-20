@@ -30,7 +30,8 @@ class RomanNumeralGeneratorTest(val arabic: Int, val expectedRoman: String) {
                     arrayOf(100, "C"),
                     arrayOf(500, "D"),
                     arrayOf(400, "CD"),
-                    arrayOf(1000, "M")
+                    arrayOf(1000, "M"),
+                    arrayOf(900, "CM")
             )
         }
     }

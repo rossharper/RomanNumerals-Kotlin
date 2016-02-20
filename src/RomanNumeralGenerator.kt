@@ -2,6 +2,7 @@ class RomanNumeralGenerator {
 
     val arabicToRomanMapping : Map<Int, String> = mapOf(
             Pair(1000, "M"),
+            Pair(900, "CM"),
             Pair(500, "D"),
             Pair(400, "CD"),
             Pair(100, "C"),
