@@ -31,8 +31,8 @@
           <file leaf-file-name="RomanNumeralGeneratorShould.kt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7512521">
-                  <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+                <state vertical-scroll-proportion="0.7762938">
+                  <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
                   <folding>
                     <element signature="e#1#180#0" expanded="true" />
                   </folding>
@@ -47,8 +47,8 @@
           <file leaf-file-name="RomanNumeralGenerator.kt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.07512521">
-                  <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+                <state vertical-scroll-proportion="0.10016695">
+                  <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
                   <folding />
                 </state>
               </provider>
@@ -526,16 +526,16 @@
       <option name="project" value="LOCAL" />
       <updated>1456001037658</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="test and handle D">
+      <created>1456001086381</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1456001086381</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 37m 37s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 38m 00s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 38m 36s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
@@ -560,6 +560,12 @@
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 44m 40s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 45m 09s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 45m 23s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1676" height="1027" extended-state="6" />
@@ -571,7 +577,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -606,7 +612,8 @@
     <MESSAGE value="test and handle XL" />
     <MESSAGE value="test and handle C" />
     <MESSAGE value="test and handle XC" />
-    <option name="LAST_COMMIT_MESSAGE" value="test and handle XC" />
+    <MESSAGE value="test and handle D" />
+    <option name="LAST_COMMIT_MESSAGE" value="test and handle D" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -627,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7512521">
-          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.7762938">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
           <folding>
             <element signature="e#1#180#0" expanded="true" />
           </folding>
@@ -637,8 +644,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07512521">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.10016695">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding />
         </state>
       </provider>
