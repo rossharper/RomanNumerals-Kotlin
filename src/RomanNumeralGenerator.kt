@@ -3,6 +3,11 @@ class RomanNumeralGenerator {
         var roman = "";
         var arabicRemaining = arabic
 
+        while(arabicRemaining >= 10) {
+            roman += "X"
+            arabicRemaining -= 10
+        }
+
         if(arabicRemaining == 9) {
             roman += "IX"
             arabicRemaining -= 9
