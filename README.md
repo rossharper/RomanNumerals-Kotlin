@@ -8,7 +8,7 @@ To get a parameterized JUnit4 test working in Kotlin I had to do the following:
 
 - annotate the Kotlin test class with `@RunWith(Parameterized::class)`
 - place the `@Parameterized.Parameters` function within a `companion object` in the test class
-- annotate the `@Parameterized.@Parameters` function with the `@JvmStatic` annotation — as Kotlin doesn't have static functions, annotation that allows Java code to call this Kotlin as if it were a static (https://kotlinlang.org/docs/reference/java-to-kotlin-interop.html#static-methods)
+- annotate the `@Parameterized.@Parameters` function with the `@JvmStatic` annotation — as Kotlin doesn't have static functions, this allows Java code to call this Kotlin as if it were a static (https://kotlinlang.org/docs/reference/java-to-kotlin-interop.html#static-methods)
 - Use Kotlin's `Any` in place of Java's `Object`
 
 Example:
