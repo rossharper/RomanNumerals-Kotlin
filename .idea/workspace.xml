@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24f757dc-f378-4dbe-813d-e0899ccd9714" name="Default" comment="">
+    <list default="true" id="24f757dc-f378-4dbe-813d-e0899ccd9714" name="Default" comment="added test for X">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RomanNumeralGenerator.kt" afterPath="$PROJECT_DIR$/src/RomanNumeralGenerator.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" afterPath="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" />
     </list>
     <ignored path="RomanNumerals-Kotlin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +46,8 @@
           <file leaf-file-name="RomanNumeralGenerator.kt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.37562606">
-                  <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+                <state vertical-scroll-proportion="0.47579297">
+                  <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
                   <folding />
                 </state>
               </provider>
@@ -490,13 +489,16 @@
       <option name="project" value="LOCAL" />
       <updated>1455999729100</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added test for X">
+      <created>1455999877687</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1455999877687</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 19m 37s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 19m 54s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
@@ -522,6 +524,9 @@
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 24m 28s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 35m 37s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -564,7 +569,8 @@
     <MESSAGE value="added test for V" />
     <MESSAGE value="added tests for VI thru VIII" />
     <MESSAGE value="added test for IX" />
-    <option name="LAST_COMMIT_MESSAGE" value="added test for IX" />
+    <MESSAGE value="added test for X" />
+    <option name="LAST_COMMIT_MESSAGE" value="added test for X" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -595,8 +601,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37562606">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.47579297">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding />
         </state>
       </provider>
