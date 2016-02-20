@@ -3,6 +3,11 @@ class RomanNumeralGenerator {
         var roman = "";
         var arabicRemaining = arabic
 
+        if(arabicRemaining >= 5) {
+            roman += "V"
+            arabicRemaining -= 5
+        }
+
         if(arabicRemaining == 4) {
             roman += "IV"
             arabicRemaining -= 4

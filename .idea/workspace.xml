@@ -31,8 +31,8 @@
           <file leaf-file-name="RomanNumeralGeneratorShould.kt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.47579297">
-                  <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+                <state vertical-scroll-proportion="0.45075125">
+                  <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
                   <folding>
                     <element signature="e#1#180#0" expanded="true" />
                   </folding>
@@ -47,8 +47,8 @@
           <file leaf-file-name="RomanNumeralGenerator.kt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.25041735">
-                  <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+                <state vertical-scroll-proportion="0.12520868">
+                  <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
                   <folding />
                 </state>
               </provider>
@@ -447,19 +447,16 @@
       <option name="project" value="LOCAL" />
       <updated>1455999054959</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added test for IV">
+      <created>1455999272250</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1455999272250</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 19h 41m 01s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 03m 58s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 06m 46s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 08m 47s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
@@ -479,6 +476,15 @@
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 14m 21s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 14m 51s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 17m 00s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 17m 13s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -515,7 +521,8 @@
     <MESSAGE value="tests for I and II" />
     <MESSAGE value="refactored to parameterized test" />
     <MESSAGE value="added test for III" />
-    <option name="LAST_COMMIT_MESSAGE" value="added test for III" />
+    <MESSAGE value="added test for IV" />
+    <option name="LAST_COMMIT_MESSAGE" value="added test for IV" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -536,8 +543,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47579297">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.45075125">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
           <folding>
             <element signature="e#1#180#0" expanded="true" />
           </folding>
@@ -546,8 +553,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25041735">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.12520868">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding />
         </state>
       </provider>
