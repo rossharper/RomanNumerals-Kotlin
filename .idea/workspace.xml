@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="24f757dc-f378-4dbe-813d-e0899ccd9714" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" afterPath="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" />
     </list>
     <ignored path="RomanNumerals-Kotlin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -549,7 +548,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456001233387</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="more test cases&#10;">
+      <created>1456001635569</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1456001635569</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -633,7 +638,8 @@
     <MESSAGE value="test and handle CD" />
     <MESSAGE value="test and handle M" />
     <MESSAGE value="test and handle CM" />
-    <option name="LAST_COMMIT_MESSAGE" value="test and handle CM" />
+    <MESSAGE value="more test cases&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="more test cases&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
