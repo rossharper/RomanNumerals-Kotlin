@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24f757dc-f378-4dbe-813d-e0899ccd9714" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/RomanNumeralGeneratorTest.kt" afterPath="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RomanNumeralGenerator.kt" afterPath="$PROJECT_DIR$/src/RomanNumeralGenerator.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" afterPath="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" />
     </list>
     <ignored path="RomanNumerals-Kotlin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,23 +25,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RomanNumeralGenerator.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RomanNumeralGenerator.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07512521">
+            <state vertical-scroll-proportion="0.0">
               <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RomanNumeralGeneratorShould.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RomanNumeralGeneratorShould.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.42570952">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
-                <element signature="e#1#109#0" expanded="true" />
+                <element signature="e#1#180#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,8 +70,8 @@
       <list>
         <option value="$PROJECT_DIR$/test/RomanNumeralGeneratorTest.java" />
         <option value="$PROJECT_DIR$/test/RomanNumeralGeneratorTest.kt" />
-        <option value="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" />
         <option value="$PROJECT_DIR$/src/RomanNumeralGenerator.kt" />
+        <option value="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" />
       </list>
     </option>
   </component>
@@ -421,18 +420,16 @@
       <option name="number" value="Default" />
       <updated>1455995911517</updated>
     </task>
+    <task id="LOCAL-00001" summary="tests for I and II">
+      <created>1455997453460</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1455997453460</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 19h 30m 17s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 19h 30m 30s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 19h 36m 10s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 19h 36m 33s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
@@ -446,6 +443,21 @@
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 19h 41m 01s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 03m 58s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 06m 46s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 08m 47s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 09m 35s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 10m 00s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -478,6 +490,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tests for I and II" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests for I and II" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -487,21 +503,29 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
+    <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
-          <folding>
-            <element signature="e#1#109#0" expanded="true" />
-          </folding>
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/Parameterized.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07512521">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        <state vertical-scroll-proportion="3.097902">
+          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42570952">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="e#1#180#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
