@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24f757dc-f378-4dbe-813d-e0899ccd9714" name="Default" comment="">
+    <list default="true" id="24f757dc-f378-4dbe-813d-e0899ccd9714" name="Default" comment="added test for Vadded test for V">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RomanNumeralGenerator.kt" afterPath="$PROJECT_DIR$/src/RomanNumeralGenerator.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" afterPath="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" />
     </list>
     <ignored path="RomanNumerals-Kotlin.iws" />
@@ -31,8 +30,8 @@
           <file leaf-file-name="RomanNumeralGeneratorShould.kt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.45075125">
-                  <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+                <state vertical-scroll-proportion="0.5759599">
+                  <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
                   <folding>
                     <element signature="e#1#180#0" expanded="true" />
                   </folding>
@@ -47,8 +46,8 @@
           <file leaf-file-name="RomanNumeralGenerator.kt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.12520868">
-                  <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+                <state vertical-scroll-proportion="0.5509182">
+                  <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -79,8 +78,8 @@
       <list>
         <option value="$PROJECT_DIR$/test/RomanNumeralGeneratorTest.java" />
         <option value="$PROJECT_DIR$/test/RomanNumeralGeneratorTest.kt" />
-        <option value="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" />
         <option value="$PROJECT_DIR$/src/RomanNumeralGenerator.kt" />
+        <option value="$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt" />
       </list>
     </option>
   </component>
@@ -95,6 +94,25 @@
     <option name="y" value="23" />
     <option name="width" value="1676" />
     <option name="height" value="1027" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UnusedSymbol</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -175,7 +193,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -453,22 +471,16 @@
       <option name="project" value="LOCAL" />
       <updated>1455999272250</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added test for V">
+      <created>1455999441999</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1455999441999</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 08m 47s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 09m 35s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 10m 00s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 10m 44s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 11m 17s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
@@ -487,6 +499,18 @@
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 17m 13s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 19m 37s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 19m 54s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 20m 14s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 20m 30s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1676" height="1027" extended-state="6" />
@@ -497,7 +521,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -522,7 +546,8 @@
     <MESSAGE value="refactored to parameterized test" />
     <MESSAGE value="added test for III" />
     <MESSAGE value="added test for IV" />
-    <option name="LAST_COMMIT_MESSAGE" value="added test for IV" />
+    <MESSAGE value="added test for V" />
+    <option name="LAST_COMMIT_MESSAGE" value="added test for V" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -541,21 +566,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
+    <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45075125">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding>
-            <element signature="e#1#180#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.5509182">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RomanNumeralGenerator.kt">
+    <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12520868">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding />
+        <state vertical-scroll-proportion="0.5759599">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="e#1#180#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
