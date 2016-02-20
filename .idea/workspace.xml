@@ -38,8 +38,8 @@
       <file leaf-file-name="RomanNumeralGeneratorShould.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42570952">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.45075125">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding>
                 <element signature="e#1#180#0" expanded="true" />
               </folding>
@@ -426,13 +426,16 @@
       <option name="project" value="LOCAL" />
       <updated>1455997453460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refactored to parameterized test">
+      <created>1455999017786</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1455999017786</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 19h 36m 33s.xml">
-      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 19h 37m 30s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
@@ -458,6 +461,9 @@
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 10m 00s.xml">
+      <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorTest - 2016.02.20 at 20h 10m 44s.xml">
       <configuration name="RomanNumeralGeneratorTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -492,7 +498,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tests for I and II" />
-    <option name="LAST_COMMIT_MESSAGE" value="tests for I and II" />
+    <MESSAGE value="refactored to parameterized test" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored to parameterized test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -521,8 +528,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/RomanNumeralGeneratorShould.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42570952">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.45075125">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
           <folding>
             <element signature="e#1#180#0" expanded="true" />
           </folding>

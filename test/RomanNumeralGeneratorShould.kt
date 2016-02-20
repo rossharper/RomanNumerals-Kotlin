@@ -15,7 +15,8 @@ class RomanNumeralGeneratorTest(val arabic: Int, val expectedRoman: String) {
         fun data() : Collection<Array<Any>> {
             return listOf(
                     arrayOf(1, "I"),
-                    arrayOf(2, "II")
+                    arrayOf(2, "II"),
+                    arrayOf(3, "III")
             )
         }
     }
